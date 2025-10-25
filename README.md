@@ -26,7 +26,7 @@ The primary objective was to plan and design a modern, robust, secure, and scala
 ## Repository Contents
 
 * `/Structured Cabling -  Group Project.pdf`: PDF document containing the detailed project report, including requirements, analysis, planning, diagrams, and budget. 
-* `/Equipments.pkt`: Cisco Packet Tracer file showing the **strategic physical placement** of network equipment on the school's floor plan.
+* `/Equipments.pkt`: Cisco Packet Tracer file showing the **strategic physical placement** of network equipment on the school's floor plan. **(Note: To view the equipment placement, open this file in Cisco Packet Tracer, switch to "Physical" mode, and navigate to either "Piso 0" or "Piso 1" within the physical workspace.)**
 * `/Logical_Topology.pkt`: Cisco Packet Tracer file detailing the **logical network topology**, showing the interconnections between devices.
 
 ## Authors
